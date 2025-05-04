@@ -1,0 +1,29 @@
+POST http://localhost:3333/user
+Content-Type: application/json
+
+{
+    "name": "Maria Celia",
+    "age": 43,
+    "genere": "Feminino"
+}
+
+
+###
+
+GET http://localhost:3333/user
+
+
+###
+
+PUT http://localhost:3333/user/
+Content-Type: application/json
+
+{
+    "name": "Alisson",
+    "age": 27,
+    "genere": "Masculino"
+}
+
+### 
+
+DELETE http://localhost:3333/user/
