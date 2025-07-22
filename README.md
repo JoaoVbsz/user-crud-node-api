@@ -1,4 +1,7 @@
-<h1>User CRUD API com Node.js🟢 e PostgreSQL🐘</h1>
+<div align="center">
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="50"/>
+  <img src="https://img.icons8.com/color/96/000000/postgreesql.png" width="50"/>
+</div>
 
 <p>Este projeto implementa uma API RESTful simples para gerenciamento de usuários (CRUD - Create, Read, Update, Delete) utilizando <strong>Node.js</strong> com o framework <strong>Fastify</strong> e um banco de dados <strong>PostgreSQL</strong>. Ele serve como um exemplo básico de como construir uma API robusta e escalável para operações de dados de usuários.</p>
 
